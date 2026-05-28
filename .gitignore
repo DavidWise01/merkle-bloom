@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+dist/
+node_modules/
+__pycache__/
+*.pyc
+
+# Working / archive
+archive/
+
+# Personal
+david_crypto_memory.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+*.swp
