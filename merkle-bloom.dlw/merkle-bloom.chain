@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1337
 slug  : merkle-bloom
-seal  : 3193a49bd780114caf0ebde3a76a0e95cc9cbe8ab3672fd47dd72959002fd08c
-prev  : fb13f15d66e09e6e4a78a2a58f871fb31c8857366e8234f374a5e385c7e3a858
-link  : 404c6f1a356b0816fd21514b57aed184ab1164e040b03c5d684d1baa4ef3d76b
-head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+seal  : 47f6012e86380b67876f813a6937459be2f5873264f3655444ae4fd742301041
+prev  : 4f09c4dcdf30247975041eaacba1a282178c98fcd5e62835c06e66d410652d3f
+link  : db993f3b021edf668d3349b7eec8a84bb89b68eccb72c8c2934b172d09f09f5f
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
